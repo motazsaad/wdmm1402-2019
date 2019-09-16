@@ -1,0 +1,4 @@
+hello 
+I like python 
+python is cool 
+
